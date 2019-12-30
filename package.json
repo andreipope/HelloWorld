@@ -1,0 +1,20 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node HelloWorld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreipope/HelloWorld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreipope/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/andreipope/HelloWorld#readme"
+}
